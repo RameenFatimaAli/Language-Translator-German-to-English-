@@ -1,0 +1,6 @@
+# Ignore data and models
+data/
+output_dir/
+*.pkl.gz
+__pycache__/
+.ipynb_checkpoints/
